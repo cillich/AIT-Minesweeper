@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="gameRestart">Restart</string>
+    <string name="lostMessage">You lost.</string>
+    <string name="wonMessage">You won!</string>
+    <string name="flagModeTxt">Flag Mode</string>
+    <string name="flagModeOn">Flag Mode is on.</string>
+    <string name="flagModeOff">Flag mode is off</string>
+    <string name="btnStats">View Your Stats</string>
+    <string name="statisticsLabel">Game Statistics</string>
+    <string name="gameTimeLabel">"Total time for game: %1$s"</string>
+    <string name="gameMinesLabel">"Total number of mines fields found: %1$s"</string>
+    <string name="gameNumbersLabel">"Total number of number fields found: %1$s"</string>
+    <string name="gameEmptysLabel">"Total number of empty fields found: %1$s"</string>
+    <string name="easyLabel">Easy</string>
+    <string name="mediumLabel">Medium</string>
+    <string name="difficultLabel">Difficult</string>
+    <string name="playLabel">Play</string>
+    <string name="minesweeperLabel">Minesweeper</string>
+    <string name="levelLabel">Choose a level:</string>
+</resources>

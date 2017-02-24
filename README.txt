@@ -15,5 +15,3 @@ Minesweeper Requirements:
 	- If you flagged a field where there is a mine and there are no
 	  more unflagged mines left, the game ends and the player wins
 - Display messages to the user using SnackBars
-
-😬
